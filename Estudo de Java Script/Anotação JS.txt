@@ -1,0 +1,10 @@
+1 - Configurando ambiente de trabalho
+2 - Básico
+3 - Lógica de Programação
+4 - Funções
+5 - Arrays
+6 - Objetos
+7 - Assíncrono - promises, ajax, fetch, e async/await
+8 - Modules
+9 - Npm
+10 - TypeScript
